@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task</string>
+
+    <string name="home">Home</string>
+    <string name="product_image">Product Image</string>
+    <string name="product_price">Product Price</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="product_name">Product Name</string>
+    <string name="grocer_app">Grocer App</string>
+    <string name="cart_image">Cart Image</string>
+    <string name="cart_description">You have 0 items in the Cart</string>
+    <string name="browse_products">Browse Products</string>
+    <string name="category_name">Category Name</string>
+    <string name="product_rating">Product Rating</string>
+
+</resources>
